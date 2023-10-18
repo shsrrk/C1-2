@@ -1,0 +1,4 @@
+﻿  C_7_2_2.c
+C:\Users\102\source\repos\Week7\Week7\C_7_2_2.c(4,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\102\source\repos\Week7\Week7\C_7_2_2.c(4,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Week7.vcxproj -> C:\Users\102\source\repos\Week7\Debug\Week7.exe
